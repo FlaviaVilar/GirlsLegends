@@ -1,0 +1,2 @@
+Entrar na pasta e 
+sass --watch node_modules/bootstrap/scass:node_modules/bootstrap/compiler
